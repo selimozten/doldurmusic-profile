@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doldurmusic-profile/static/css/main.23c9f2ce.css",
+    "main.js": "/doldurmusic-profile/static/js/main.4c1e7cc6.js",
+    "static/js/453.271242d2.chunk.js": "/doldurmusic-profile/static/js/453.271242d2.chunk.js",
+    "index.html": "/doldurmusic-profile/index.html",
+    "main.23c9f2ce.css.map": "/doldurmusic-profile/static/css/main.23c9f2ce.css.map",
+    "main.4c1e7cc6.js.map": "/doldurmusic-profile/static/js/main.4c1e7cc6.js.map",
+    "453.271242d2.chunk.js.map": "/doldurmusic-profile/static/js/453.271242d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c9f2ce.css",
+    "static/js/main.4c1e7cc6.js"
+  ]
+}
